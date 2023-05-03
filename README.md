@@ -1,4 +1,6 @@
-# PJATK Subjects
+<h1 align="center">
+PJATK Subjects
+</h1>
 
 This repository contains links to all the repositories that I have created during my studies at [PJATK](https://pja.edu.pl/).
 
